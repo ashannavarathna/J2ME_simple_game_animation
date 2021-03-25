@@ -1,1 +1,3 @@
 "# _simple_game_animation with java mobile platform and canvas calss" 
+
+"# https://youtu.be/RXhNp3y8juc" follow this link to youtube... 
